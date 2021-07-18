@@ -1,4 +1,5 @@
-Tableau Visuzations -> [Bellabeat Dashboard & More](https://public.tableau.com/app/profile/andy.zheng2905/viz/BellabeatDashboardMore/BellabeatDashboardMore-), 
+Tableau Visuzations -> [Bellabeat Dashboard & More](https://public.tableau.com/app/profile/andy.zheng2905/viz/BellabeatDashboardMore/BellabeatDashboardMore-)
+
 Isolated Graphs, etc. ->[Steps in a Week, Activity in a Day (Bellabeat](https://public.tableau.com/app/profile/andy.zheng2905/viz/StepsinaWeekActivityinaDayBellabeat/Bellabeat2), [Distance / Steps & Calories by ID (Bellabeat)](https://public.tableau.com/app/profile/andy.zheng2905/viz/DistanceStepsCaloriesbyIDBellabeat/TotalDistanceStepsCaloriesID)
 
 ![alt text](https://i.ebayimg.com/images/g/6o4AAOSwJ5RbHTum/s-l640.jpg)
